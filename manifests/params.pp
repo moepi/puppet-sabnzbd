@@ -21,4 +21,6 @@ class sabnzbd::params {
   # Login settings for sabnzbd frontend, blank means no login
   $login_username     = ''
   $login_password     = ''
+
+  $script_dir	= 'scripts'
 }
