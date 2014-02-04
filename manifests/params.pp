@@ -22,5 +22,5 @@ class sabnzbd::params {
   $login_username     = ''
   $login_password     = ''
 
-  $script_dir	= 'scripts'
+  $script_dir	= ''
 }
